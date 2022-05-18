@@ -1,0 +1,14 @@
+.App {
+  min-width: 100vw;
+  min-height: 100vh;
+  background-color: #e5e9f2;
+}
+
+.Menu {
+  padding-left: 4%;
+  padding-right: 4%;
+}
+
+.card-itens {
+  padding: 2%;
+}
